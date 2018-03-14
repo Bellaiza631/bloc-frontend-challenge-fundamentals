@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BusyBus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BusyBus-" transform="translate(-328.000000, -100.000000)" fill="#303F9F">
+            <path d="M336,100 L331,105 L336,110 L336,105.5 C339.314,105.5 342,108.186 342,111.5 C342,114.814 339.314,117.5 336,117.5 C332.686,117.5 330,114.814 330,111.5 L328,111.5 C328,115.918 331.582,119.5 336,119.5 C340.418,119.5 344,115.918 344,111.5 C344,107.082 340.418,103.5 336,103.5 L336,100 Z" id="ic_2"></path>
+        </g>
+    </g>
+</svg>
